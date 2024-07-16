@@ -1,2 +1,2 @@
-# jovian-careers-website
+# TechVanguard
 A personal website.
